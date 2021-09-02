@@ -10,12 +10,14 @@
 
    例如，从\server\config.txt中的内容从
 
->端口号
+>端口号 
+>
 >最大连接数
 
 ​		更改为服务器的对应实际信息
 
 > 8000
+> 
 > 100
 
 2. 在服务器端建立数据库，连接参数`host='localhost', user="root", passwd="password"`，
